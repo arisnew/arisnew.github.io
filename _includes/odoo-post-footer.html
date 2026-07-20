@@ -1,0 +1,34 @@
+<style>
+  .video-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: 1.5rem 0;
+  }
+  .video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .odoo-post-footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #dfe2e5;
+    color: #586069;
+    font-size: 0.95rem;
+  }
+</style>
+
+{% if page.odoo_path and site.odoo_subdomain %}
+<p class="odoo-post-footer">
+  Versi lengkap di
+  <a href="{{ "https://" | append: site.odoo_subdomain | append: ".odoo.com" | append: page.odoo_path }}">
+    {{ site.odoo_subdomain }}.odoo.com
+  </a>.
+  Tautan internal Odoo (mis. <code>/contactus</code>) aktif di website tersebut.
+</p>
+{% endif %}
