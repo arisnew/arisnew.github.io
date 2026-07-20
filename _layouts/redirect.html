@@ -1,0 +1,22 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% assign odoo_base = site.odoo_subdomain | append: ".odoo.com" | prepend: "https://" %}
+  {% assign target = odoo_base | append: page.odoo_path %}
+  <meta http-equiv="refresh" content="0; url={{ target }}">
+  <link rel="canonical" href="{{ target }}">
+  <title>{{ page.title | default: "Redirect" }}</title>
+  <script>location.replace("{{ target }}");</script>
+</head>
+<body>
+  <p>
+    Mengalihkan ke
+    <a href="{{ target }}">{{ site.odoo_subdomain }}.odoo.com{{ page.odoo_path }}</a>…
+  </p>
+</body>
+</html>

@@ -70,7 +70,7 @@ Desain ulang layout laporan PDF (invoice, quotation, delivery order) dengan edit
 | Custom report kompleks | ⚠️ Sebagian | ✅ Diperlukan |
 | Prototipe cepat | ✅ Ideal | Lambat |
 
-**Best practice:** Mulai dengan Odoo Studio untuk kebutuhan sederhana dan prototyping. Jika kebutuhan berkembang ke logika kompleks atau integrasi, upgrade ke custom module development dengan bantuan [konsultan Odoo](/about-us).
+**Best practice:** Mulai dengan Odoo Studio untuk kebutuhan sederhana dan prototyping. Jika kebutuhan berkembang ke logika kompleks atau integrasi, upgrade ke custom module development dengan bantuan [konsultan Odoo](https://arisnew.odoo.com/about-us).
 
 ## Manfaat Odoo Studio untuk Bisnis Indonesia
 
@@ -91,4 +91,4 @@ Langkah pertama yang saya sarankan:
 3. Coba buat custom field dan automated action sederhana
 4. Evaluasi hasil — lanjutkan dengan Studio atau escalate ke custom development
 
-Butuh bantuan implementasi Odoo Studio atau custom module? [Hubungi saya](/contactus) untuk konsultasi gratis, atau kunjungi [halaman layanan](/our-services) untuk detail solusi Odoo ERP.
+Butuh bantuan implementasi Odoo Studio atau custom module? [Hubungi saya](https://arisnew.odoo.com/contactus) untuk konsultasi gratis, atau kunjungi [halaman layanan](https://arisnew.odoo.com/our-services) untuk detail solusi Odoo ERP.
