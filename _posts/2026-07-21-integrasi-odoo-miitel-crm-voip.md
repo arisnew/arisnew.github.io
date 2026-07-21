@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Integrasi Odoo dengan MiiTel: CRM, VoIP, dan Voice Analytics dalam Satu Platform"
+odoo_path: /blog/blog-odoo-erp-software-development-1/integrasi-odoo-miitel-crm-voip-6
 ---
 
 Tim sales dan customer service sering terjebak di antara dua dunia: **CRM** tempat data pelanggan disimpan, dan **aplikasi telepon** tempat percakapan sebenarnya terjadi. Setiap kali berpindah aplikasi, konteks hilang, follow-up terlambat, dan riwayat interaksi tidak lengkap.
