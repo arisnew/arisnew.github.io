@@ -15,11 +15,13 @@
 {% assign og_image = page.og_image | default: page.image %}
 
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="{{ site.title | default: 'Aris Priyanto' }}">
-<meta property="og:title" content="{{ og_title | escape }}">
-{% if og_description %}
-<meta property="og:description" content="{{ og_description | escape }}">
-{% endif %}
+<meta property="og:site_name" content="{{ site.name | default: site.title | escape }}">
+{% unless page.title %}
+<meta property="og:title" content="{{ site.name | escape }}">
+{% endunless %}
+{% unless page.description or page.excerpt %}
+<meta property="og:description" content="{{ site.description | escape }}">
+{% endunless %}
 <meta property="og:url" content="{{ canonical }}">
 {% if og_image %}
 <meta property="og:image" content="{{ og_image | escape }}">
