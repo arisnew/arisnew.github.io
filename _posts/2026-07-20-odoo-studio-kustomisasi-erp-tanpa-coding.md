@@ -1,6 +1,12 @@
 ---
 layout: post
 title: "Odoo Studio: Kustomisasi ERP Tanpa Coding — Panduan Lengkap + Webinar"
+date: 2026-07-20
+description: Panduan lengkap Odoo Studio untuk kustomisasi ERP tanpa coding. Pelajari workflow, custom field, automasi, dan tonton webinar Mastering Odoo Studio dari Jidoka System.
+image: "https://img.youtube.com/vi/M8opdAvczUQ/maxresdefault.jpg"
+og_image: "https://img.youtube.com/vi/M8opdAvczUQ/maxresdefault.jpg"
+canonical_url: "https://arisnew.odoo.com/blog/blog-odoo-erp-software-development-1/odoo-studio-kustomisasi-erp-tanpa-coding-2"
+robots: noindex, follow
 odoo_path: /blog/blog-odoo-erp-software-development-1/odoo-studio-kustomisasi-erp-tanpa-coding-2
 ---
 

@@ -1,6 +1,12 @@
 ---
 layout: post
 title: "Integrasi Odoo dengan MiiTel: CRM, VoIP, dan Voice Analytics dalam Satu Platform"
+date: 2026-07-21
+description: Panduan integrasi Odoo dengan MiiTel Phone System. Addon jsi_miitel untuk Odoo 18 — click-to-call, riwayat panggilan otomatis, notifikasi real-time. Dikembangkan Jidoka System Indonesia.
+image: "https://img.youtube.com/vi/M02Meu6sdn8/maxresdefault.jpg"
+og_image: "https://img.youtube.com/vi/M02Meu6sdn8/maxresdefault.jpg"
+canonical_url: "https://arisnew.odoo.com/blog/blog-odoo-erp-software-development-1/integrasi-odoo-miitel-crm-voip-6"
+robots: noindex, follow
 odoo_path: /blog/blog-odoo-erp-software-development-1/integrasi-odoo-miitel-crm-voip-6
 ---
 
