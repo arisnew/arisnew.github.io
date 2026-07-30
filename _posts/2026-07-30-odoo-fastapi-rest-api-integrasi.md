@@ -3,8 +3,9 @@ layout: post
 title: "REST API di Odoo dengan FastAPI: Integrasi Modern, Cepat, dan Dokumentasi Otomatis"
 date: 2026-07-30
 description: Panduan REST API Odoo dengan modul OCA fastapi. Type hints, Pydantic validation, dokumentasi Swagger otomatis, JWT — alternatif lebih baik dari custom controller. Odoo 18 Community & Enterprise.
-canonical_url: "https://arisnew.odoo.com/blog/odoo-fastapi-rest-api-integrasi"
+canonical_url: "https://arisnew.odoo.com/blog/blog-odoo-erp-software-development-1/odoo-fastapi-rest-api-integrasi-10"
 robots: noindex, follow
+odoo_path: /blog/blog-odoo-erp-software-development-1/odoo-fastapi-rest-api-integrasi-10
 ---
 
 Setiap proyek integrasi Odoo — mobile app, e-commerce, warehouse scanner, payment gateway, atau middleware antar sistem — pada akhirnya butuh **REST API** yang stabil, cepat, dan mudah di-maintain. Pendekatan klasik sering jatuh ke dua opsi: memanggil **JSON-RPC/XML-RPC bawaan Odoo** dari luar, atau menulis **custom HTTP controller** (`@http.route`) dari nol.
