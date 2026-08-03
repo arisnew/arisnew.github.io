@@ -3,8 +3,9 @@ layout: post
 title: "Py3o Report Engine di Odoo: Desain Laporan & Print Out dengan LibreOffice — Tanpa QWeb XML"
 date: 2026-07-28
 description: Panduan implementasi Py3o Report Engine di Odoo. Desain laporan invoice, SO, payslip dengan LibreOffice Writer — tanpa QWeb XML. Cocok untuk Odoo Community & Enterprise.
-canonical_url: "https://arisnew.odoo.com/blog/odoo-py3o-report-engine-desain-laporan-tanpa-xml"
+canonical_url: "https://arisnew.odoo.com/blog/blog-odoo-erp-software-development-1/odoo-py3o-report-engine-desain-laporan-tanpa-xml-9"
 robots: noindex, follow
+odoo_path: /blog/blog-odoo-erp-software-development-1/odoo-py3o-report-engine-desain-laporan-tanpa-xml-9
 ---
 
 Salah satu pain point terbesar saat kustomisasi Odoo adalah **desain laporan PDF**: invoice, quotation, delivery order, payslip, atau laporan operasional. Engine bawaan Odoo memakai **QWeb** (HTML + CSS + XML view) — powerful untuk developer, tetapi **sulit diakses pengguna bisnis** yang hanya ingin mengubah layout, logo, atau format tabel tanpa menyentuh kode.
